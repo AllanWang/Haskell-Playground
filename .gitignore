@@ -25,6 +25,7 @@ cabal.project.local~
 .stack-work/
 Haskell-Playground.cabal
 *~
+out/
 
 # IntelliJ
 *.iml
