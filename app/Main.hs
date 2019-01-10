@@ -6,7 +6,7 @@ import Language.HaLex.Fa2RegExp
 import Lib
 
 main :: IO ()
-main = putStr asdf
+main = putStr asdf2
 
 asdf :: String
 asdf = show $ dfa2RegExp dfa
