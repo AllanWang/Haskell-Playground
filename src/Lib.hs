@@ -1,3 +1,6 @@
+-- Tutorial can be found here:
+-- https://markkarpov.com/megaparsec/parsing-simple-imperative-language.html
+
 module Lib
   ( sample
   ) where
