@@ -7,6 +7,8 @@ Namely used for [Comp 520 - Compiler Design](https://www.mcgill.ca/study/2018-20
 
 ## Recommendation
 
+To use this project, install `stack` and execute `stack run`.
+
 Use IntelliJ along with the [Haskell plugin](https://github.com/rikvdkleij/intellij-haskell).
 Note the readme if you want to install the newer beta versions.
 
